@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\SoftRenderer\TypeDef.h(22,1): warning C4099: “RenderContext”: 类型名称以前使用“class”现在使用的是“struct”
+C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\SoftRenderer\TypeDef.h(21): message : 参见“RenderContext”的声明
+C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\SoftRenderer\Math\Random.h(17,15): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\SoftRenderer\Math\Random.h(23,25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\SoftRenderer\main.cpp(82,14): warning C4305: “=”: 从“double”到“float”截断
+  SoftRenderer.vcxproj -> C:\Users\guibo\Documents\GitHub\SoftRenderer\SetUpProject\SetUp_Windows\x64\Debug\SoftRenderer.exe
